@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mansi-sri/newsapp/static/css/main.31d6cfe0.css",
-    "main.js": "/mansi-sri/newsapp/static/js/main.9791f59c.js",
-    "static/js/787.4c026eef.chunk.js": "/mansi-sri/newsapp/static/js/787.4c026eef.chunk.js",
-    "index.html": "/mansi-sri/newsapp/index.html",
-    "main.9791f59c.js.map": "/mansi-sri/newsapp/static/js/main.9791f59c.js.map",
-    "787.4c026eef.chunk.js.map": "/mansi-sri/newsapp/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/newsapp/static/css/main.31d6cfe0.css",
+    "main.js": "/newsapp/static/js/main.c239a937.js",
+    "static/js/787.4c026eef.chunk.js": "/newsapp/static/js/787.4c026eef.chunk.js",
+    "index.html": "/newsapp/index.html",
+    "main.c239a937.js.map": "/newsapp/static/js/main.c239a937.js.map",
+    "787.4c026eef.chunk.js.map": "/newsapp/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.9791f59c.js"
+    "static/js/main.c239a937.js"
   ]
 }
