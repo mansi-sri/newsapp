@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Mark Frerichs: US hostage swapped for Afghan leader linked to Taliban",
+      "description": "Mark Frerichs, a US navy veteran working as an engineer, was taken in Afghanistan in 2020.",
+      "url": "http://www.bbc.co.uk/news/world-asia-62954203",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B189/production/_120094454_photo0015.jpg",
+      "publishedAt": "2022-09-19T10:07:19.0381655Z",
+      "content": "The Taliban have released a US engineer they had held hostage since 2020 in exchange for an Afghan tribal leader held in US custody since 2005.\r\nMark Frerichs was handed over at Kabul airport on Mond… [+2047 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Japan storm: Nine million people told to evacuate as super typhoon Nanmadol hits",
+      "description": "Nanmadol is one of the worst typhoons ever to strike Japan, with flooding and landslides expected.",
+      "url": "http://www.bbc.co.uk/news/world-asia-62952942",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12080/production/_126765837_mediaitem126765836.jpg",
+      "publishedAt": "2022-09-19T08:37:26.2263332Z",
+      "content": "By Elsa MaishmanBBC News\r\nNine million people have been told to evacuate their homes as Japan is battered by one of the worst typhoons the country has ever seen. \r\nThe super typhoon Nanmadol has caus… [+2271 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine claims control of key Oskil river on front line",
+      "description": "Russia's army has been almost completely pushed out of Ukraine's north-eastern Kharkiv region.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62952641",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E3F4/production/_126765385_cc7e7410-169c-467f-8617-a043eb933621.jpg",
+      "publishedAt": "2022-09-19T08:37:22.5067866Z",
+      "content": "By Paul KirbyBBC News\r\nUkrainian forces say they have regained control of the east bank of the River Oskil, seen as the front line with Russian troops in north-east Ukraine.\r\nRussia's army has been a… [+3764 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Queen's funeral: Doors of Westminster Abbey open",
+      "description": "Guests at the first state funeral since 1965 begin to arrive ahead of the service at 11:00 BST.",
+      "url": "http://www.bbc.co.uk/news/uk-62952004",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11DCE/production/_126766137_1dea77ee8fdf8683e8c456f8456728738dc9f3a40_0_6000_40002000x1333.jpg",
+      "publishedAt": "2022-09-19T08:07:17.164366Z",
+      "content": "By Doug Faulkner, &amp; Claire Heald at Westminster AbbeyBBC News\r\nThe doors of Westminster Abbey have opened ahead of the state funeral of Britain's longest-reigning monarch, Queen Elizabeth II.\r\nKi… [+3867 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Chinese official warns against touching foreigners after monkeypox case",
+      "description": "Chief epidemiologist Wu Zunyou issued the warning a day after China recorded its first monkeypox case.",
+      "url": "http://www.bbc.co.uk/news/world-asia-china-62873979",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1358E/production/_126764297_gettyimages-1287615348.jpg",
+      "publishedAt": "2022-09-19T06:07:27.2410787Z",
+      "content": "A top Chinese health official has warned locals against touching foreigners, a day after China recorded its first monkeypox infection.\r\nIn a post on Weibo, the chief epidemiologist at the Chinese Cen… [+2185 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Queen's funeral: Final lying-in-state mourner says it 'means a lot'",
+      "description": "As the Queen's lying-in-state ends, the last person to queue says she went to say thank you.",
+      "url": "http://www.bbc.co.uk/news/uk-62951092",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2874/production/_126765301_ccf4e3246140b36420a035196be10eee906749e90_182_3500_19703500x1970.jpg",
+      "publishedAt": "2022-09-19T06:07:23.9294032Z",
+      "content": "By James Gregory &amp; Becky MortonBBC News\r\nMedia caption, Watch: Last mourners file past as Lying in State ends\r\nThe last person in the queue to view Queen Elizabeth II's lying-in-state ahead of th… [+2373 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Buildings collapse as earthquake shakes Taiwan",
+      "description": "At least one person has died and 146 were injured as earthquakes rattle the island.",
+      "url": "http://www.bbc.co.uk/news/world-asia-62952161",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13C32/production/_126764908_p0d16c2z.jpg",
+      "publishedAt": "2022-09-19T05:37:27.4753817Z",
+      "content": "Taiwan was hit by a 6.9-magnitude earthquake on Sunday, leaving at least one person dead and 146 injured. \r\nIt was the strongest of several tremors over the past three days, with another 5.6-magnitud… [+32 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Biden again says US would defend Taiwan if China attacks",
+      "description": "The US president says troops would defend the island, but the White House downplays the comments.",
+      "url": "http://www.bbc.co.uk/news/world-asia-62951347",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D706/production/_126764055_mediaitem126764054.jpg",
+      "publishedAt": "2022-09-19T03:07:21.9917524Z",
+      "content": "By Frances MaoBBC News\r\nUS President Joe Biden has again said the US would defend Taiwan in the event of an \"unprecedented attack\" by China.\r\nSpeaking in a CBS interview, Mr Biden replied \"Yes\" when … [+2638 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Hurricane Fiona knocks out Puerto Rico electricity",
+      "description": "The US island's population of 3.3 million loses electricity as Hurricane Fiona makes landfall.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62947900",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148A8/production/_126763148_3635e83fdde85e6fe08b4226ec97b9fbd289e231.jpg",
+      "publishedAt": "2022-09-18T21:07:16.3983928Z",
+      "content": "By Merlyn ThomasBBC News\r\nThe arrival of Hurricane Fiona has knocked out all electricity on the US island of Puerto Rico.\r\nThe operator of the island's grid, Luma Energy, said the system had lost pow… [+1466 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "'Call me foreign agent' says Russian anti-war pop star Alla Pugacheva",
+      "description": "Russian pop star Alla Pugacheva condemns the Ukraine war, in solidarity with her showbiz husband.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62948146",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13246/production/_126760487_pugachevaok22mar11getty.jpg",
+      "publishedAt": "2022-09-18T16:37:21.7563277Z",
+      "content": "One of Russia's most popular singers, Alla Pugacheva, has called on the Russian authorities to declare her a \"foreign agent\", in solidarity with her strongly anti-war husband Maxim Galkin.\r\nA showbiz… [+1672 chars]"
+    }
+  ]
+}
